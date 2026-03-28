@@ -1,0 +1,120 @@
+match_id,period,player_id,player_name,player_position,team_shortname,x_start,y_start,x_end,y_end,start_zone,end_zone,game_state,inter_con_rec,inter_sin_rec,intercepciones
+2047793,1,38610,S. Arzamendia,LB,Estudiantes,-25.99,16.81,-25.99,16.81,2,2,drawing,1,0,1
+2047793,1,123094,A. García Basso,LCB,Racing Club,-42.24,23.47,-42.24,23.47,2,2,drawing,0,1,1
+2047793,1,123094,A. García Basso,LCB,Racing Club,-39.22,-0.28,-39.22,-0.28,3,3,drawing,1,0,1
+2047793,1,28747,E. Almendra,LM,Racing Club,-17.61,10.89,-14.62,6.12,8,8,drawing,1,0,1
+2047793,1,58765,T. Palacios,RW,Estudiantes,-16.95,-18.83,-5.24,-12.01,9,9,drawing,1,0,1
+2047793,1,812900,R. Gómez,RB,Estudiantes,33.39,-30.79,33.39,-30.79,20,20,drawing,1,0,1
+2047793,1,58765,T. Palacios,RW,Estudiantes,-23.05,-22.31,-23.05,-22.31,10,10,drawing,1,0,1
+2047793,1,131530,S. Núñez,RCB,Estudiantes,-40.0,0.02,-40.0,0.02,3,3,drawing,1,0,1
+2047793,1,38610,S. Arzamendia,LB,Estudiantes,-3.77,19.01,-5.94,22.88,7,7,drawing,1,0,1
+2047793,1,35564,G. Rojas,LB,Racing Club,-27.02,16.02,-27.02,16.02,2,2,drawing,1,0,1
+2047793,1,13084,S. Ascacíbar,RM,Estudiantes,19.26,-8.55,19.26,-8.55,14,14,drawing,1,0,1
+2047793,1,35564,G. Rojas,LB,Racing Club,-34.29,20.01,-34.29,20.01,2,2,drawing,1,0,1
+2047793,1,131530,S. Núñez,RCB,Estudiantes,-3.61,-24.89,-3.61,-24.89,10,10,drawing,1,0,1
+2047793,1,13084,S. Ascacíbar,RM,Estudiantes,12.9,-17.29,12.9,-17.29,14,14,drawing,1,0,1
+2047793,1,28755,F. Mura,RB,Racing Club,-15.53,-9.3,-22.39,-20.11,9,10,drawing,1,0,1
+2047793,1,38610,S. Arzamendia,LB,Estudiantes,-11.05,28.68,-11.05,28.68,7,7,drawing,0,1,1
+2047793,1,38610,S. Arzamendia,LB,Estudiantes,-24.51,19.61,-24.51,19.61,7,7,drawing,1,0,1
+2047793,1,28755,F. Mura,RB,Racing Club,17.25,-25.06,17.25,-25.06,15,15,drawing,1,0,1
+2047793,1,38610,S. Arzamendia,LB,Estudiantes,-30.44,21.85,-30.44,21.85,2,2,drawing,1,0,1
+2047793,1,36728,S. Sosa,DM,Racing Club,-6.97,-23.52,-6.97,-23.52,10,10,drawing,1,0,1
+2047793,1,131530,S. Núñez,RCB,Estudiantes,-18.77,4.48,-18.77,4.48,8,8,drawing,1,0,1
+2047793,1,26252,J. Nardoni,RM,Racing Club,6.54,-9.04,8.65,-8.14,14,14,drawing,0,1,1
+2047793,1,35671,D. Vergara,LF,Racing Club,42.64,15.17,42.64,15.17,17,17,drawing,0,0,1
+2047793,1,36728,S. Sosa,DM,Racing Club,-39.82,9.8,-39.82,9.8,3,3,drawing,1,0,1
+2047793,1,58765,T. Palacios,RW,Estudiantes,27.71,-20.02,26.1,-20.69,20,15,drawing,1,0,1
+2047793,1,35564,G. Rojas,LB,Racing Club,-42.43,19.89,-45.72,22.12,2,2,drawing,1,0,1
+2047793,1,34536,L. González Pírez,LCB,Estudiantes,-35.42,18.22,-48.87,24.89,2,2,drawing,1,0,1
+2047793,1,36722,F. Cambeses,GK,Racing Club,-46.56,9.51,-48.02,-2.47,3,3,drawing,1,0,1
+2047793,1,13084,S. Ascacíbar,RM,Estudiantes,2.7,-15.38,2.7,-15.38,14,14,drawing,1,0,1
+2047793,1,58765,T. Palacios,RW,Estudiantes,-19.4,-22.94,-19.4,-22.94,10,10,drawing,1,0,1
+2047793,1,35564,G. Rojas,LB,Racing Club,35.76,25.13,41.86,18.14,17,17,drawing,1,0,1
+2047793,1,38610,S. Arzamendia,LB,Estudiantes,-39.02,9.71,-39.02,9.71,3,3,drawing,1,0,1
+2047793,1,28747,E. Almendra,LM,Racing Club,21.47,-1.2,22.1,1.1,13,13,drawing,1,0,1
+2047793,1,25949,E. Cetré,LW,Estudiantes,-22.34,19.55,-21.84,15.39,7,7,drawing,1,0,1
+2047793,1,28677,N. Colombo,RCB,Racing Club,-25.95,-12.89,-10.85,-18.95,4,9,drawing,1,0,1
+2047793,1,58765,T. Palacios,RW,Estudiantes,-19.18,-21.26,-19.18,-21.26,10,10,drawing,1,0,1
+2047793,1,36722,F. Cambeses,GK,Racing Club,-32.03,3.42,-33.45,4.46,3,3,drawing,1,0,1
+2047793,1,123094,A. García Basso,LCB,Racing Club,-21.68,-17.38,-21.68,-17.38,9,9,drawing,1,0,1
+2047793,1,36739,C. Medina,LM,Estudiantes,12.17,17.21,27.73,-1.7,12,18,drawing,1,0,1
+2047793,1,38610,S. Arzamendia,LB,Estudiantes,-32.48,31.54,-43.66,32.72,1,1,drawing,1,0,1
+2047793,1,131530,S. Núñez,RCB,Estudiantes,-30.91,-11.67,-30.91,-11.67,4,4,drawing,1,0,1
+2047793,1,28615,E. Piovi,DM,Estudiantes,-38.25,-9.44,-38.25,-9.44,4,4,drawing,1,0,1
+2047793,1,58765,T. Palacios,RW,Estudiantes,-31.19,-19.76,-21.77,-15.04,5,9,drawing,0,1,1
+2047793,1,36728,S. Sosa,DM,Racing Club,-38.75,0.67,-38.75,0.67,3,3,drawing,1,0,1
+2047793,1,35564,G. Rojas,LB,Racing Club,8.82,28.43,8.82,28.43,12,12,drawing,1,0,1
+2047793,1,28677,N. Colombo,RCB,Racing Club,-13.46,11.12,-15.22,16.21,8,7,drawing,1,0,1
+2047793,1,812900,R. Gómez,RB,Estudiantes,-29.92,-28.91,-29.92,-28.91,5,5,drawing,1,0,1
+2047793,1,35671,D. Vergara,LF,Racing Club,16.97,30.09,15.1,30.71,11,11,drawing,0,1,1
+2047793,1,36722,F. Cambeses,GK,Racing Club,-46.17,-17.95,-46.85,-18.48,4,4,drawing,1,0,1
+2047793,1,34536,L. González Pírez,LCB,Estudiantes,-43.86,-0.84,-43.86,-0.84,3,3,drawing,1,0,1
+2047793,1,38610,S. Arzamendia,LB,Estudiantes,-17.76,23.6,-17.76,23.6,7,7,drawing,1,0,1
+2047793,1,38610,S. Arzamendia,LB,Estudiantes,2.95,25.4,2.95,25.4,12,12,drawing,1,0,1
+2047793,1,131530,S. Núñez,RCB,Estudiantes,-34.49,-32.84,-34.49,-32.84,5,5,drawing,1,0,1
+2047793,2,35564,G. Rojas,LB,Racing Club,-26.46,8.3,-26.46,8.3,3,3,drawing,1,0,1
+2047793,2,131530,S. Núñez,RCB,Estudiantes,-10.74,-26.48,-10.74,-26.48,10,10,drawing,1,0,1
+2047793,2,28615,E. Piovi,DM,Estudiantes,-33.52,-25.01,-33.52,-25.01,5,5,drawing,1,0,1
+2047793,2,123094,A. García Basso,LCB,Racing Club,9.12,22.78,6.06,23.07,12,12,drawing,1,0,1
+2047793,2,25949,E. Cetré,LW,Estudiantes,-8.03,8.84,15.6,4.76,8,13,drawing,1,0,1
+2047793,2,26252,J. Nardoni,RM,Racing Club,-38.02,-25.84,-48.98,-31.72,5,5,drawing,1,0,1
+2047793,2,36739,C. Medina,LM,Estudiantes,17.96,14.76,19.67,13.28,12,12,drawing,1,0,1
+2047793,2,3406,F. Muslera,GK,Estudiantes,-45.39,9.8,-44.08,11.23,3,3,drawing,0,0,1
+2047793,2,36722,F. Cambeses,GK,Racing Club,-36.39,-9.61,-38.53,-4.77,4,4,drawing,1,0,1
+2047793,2,35671,D. Vergara,LF,Racing Club,1.37,32.63,-14.49,27.98,11,7,drawing,1,0,1
+2047793,2,28615,E. Piovi,DM,Estudiantes,-8.37,6.13,-8.37,6.13,8,8,drawing,1,0,1
+2047793,2,123094,A. García Basso,LCB,Racing Club,-14.66,6.56,-14.66,6.56,8,8,drawing,1,0,1
+2047793,2,3406,F. Muslera,GK,Estudiantes,-49.7,-4.37,-40.75,-1.54,4,3,drawing,1,0,1
+2047793,2,36728,S. Sosa,DM,Racing Club,-36.69,1.02,-36.69,1.02,3,3,drawing,1,0,1
+2047793,2,25949,E. Cetré,LW,Estudiantes,-21.15,30.14,-25.45,33.12,6,1,drawing,1,0,1
+2047793,2,3406,F. Muslera,GK,Estudiantes,-50.11,12.92,-49.04,12.07,3,3,drawing,0,0,1
+2047793,2,28615,E. Piovi,DM,Estudiantes,-14.84,25.7,-15.01,23.66,7,7,drawing,0,1,1
+2047793,2,28747,E. Almendra,LM,Racing Club,-16.97,25.42,-16.97,25.42,7,7,drawing,1,0,1
+2047793,2,812900,R. Gómez,RB,Estudiantes,-38.79,-29.25,-44.59,-28.38,5,5,drawing,0,1,1
+2047793,2,38610,S. Arzamendia,LB,Estudiantes,-43.04,2.69,-43.04,2.69,3,3,drawing,1,0,1
+2047793,2,28677,N. Colombo,RCB,Racing Club,-17.88,-4.23,-17.88,-4.23,9,9,drawing,1,0,1
+2047793,2,34536,L. González Pírez,LCB,Estudiantes,-15.73,2.94,-15.73,2.94,8,8,drawing,1,0,1
+2047793,2,38142,A. Martínez,CF,Racing Club,17.64,3.01,41.2,13.67,13,17,drawing,0,0,1
+2047793,2,35564,G. Rojas,LB,Racing Club,-40.24,5.82,-40.24,5.82,3,3,winning,1,0,1
+2047793,2,34536,L. González Pírez,LCB,Estudiantes,-30.49,18.24,-31.58,32.69,2,1,losing,1,0,1
+2047793,2,35564,G. Rojas,LB,Racing Club,4.44,2.92,4.44,2.92,13,13,winning,1,0,1
+2047793,2,13084,S. Ascacíbar,RM,Estudiantes,-15.72,17.51,-15.72,17.51,7,7,losing,1,0,1
+2047793,2,26252,J. Nardoni,RM,Racing Club,4.16,-6.19,8.27,-3.53,14,14,winning,1,0,1
+2047793,2,28677,N. Colombo,RCB,Racing Club,-24.84,-17.67,-24.84,-17.67,9,9,winning,1,0,1
+2047793,2,34536,L. González Pírez,LCB,Estudiantes,-45.72,-1.12,-45.72,-1.12,3,3,losing,1,0,1
+2047793,2,28677,N. Colombo,RCB,Racing Club,-14.32,-12.94,-14.32,-12.94,9,9,winning,1,0,1
+2047793,2,115103,F. Pardo,CB,Racing Club,-41.03,-3.79,-41.03,-3.79,4,4,winning,1,0,1
+2047793,2,115103,F. Pardo,CB,Racing Club,-44.25,1.58,-44.25,1.58,3,3,drawing,1,0,1
+2047793,2,35612,G. Benedetti,LB,Estudiantes,-11.72,13.18,-11.72,13.18,7,7,drawing,1,0,1
+2047793,2,36679,E. Meza,RB,Estudiantes,-26.37,-1.56,-26.37,-1.56,3,3,drawing,1,0,1
+2047793,3,131530,S. Núñez,RCB,Estudiantes,-14.52,-14.43,-14.52,-14.43,9,9,drawing,1,0,1
+2047793,3,3406,F. Muslera,GK,Estudiantes,-40.96,10.62,-38.45,5.4,3,3,drawing,1,0,1
+2047793,3,35564,G. Rojas,LB,Racing Club,-36.41,18.57,-36.41,18.57,2,2,drawing,1,0,1
+2047793,3,34536,L. González Pírez,LCB,Estudiantes,-7.29,-17.66,-7.29,-17.66,9,9,drawing,1,0,1
+2047793,3,36516,T. Conechny,RF,Racing Club,1.89,28.58,1.89,28.58,12,12,drawing,1,0,1
+2047793,3,35564,G. Rojas,LB,Racing Club,-51.75,28.01,-51.75,28.01,2,2,drawing,1,0,1
+2047793,3,34536,L. González Pírez,LCB,Estudiantes,-28.95,-15.99,-28.95,-15.99,4,4,drawing,1,0,1
+2047793,3,26252,J. Nardoni,RM,Racing Club,23.99,1.21,24.62,-0.14,13,13,drawing,0,0,1
+2047793,3,852686,A. Fernández,LM,Racing Club,-36.61,-3.55,-35.62,-5.09,4,4,drawing,1,0,1
+2047793,3,569404,F. Rodríguez,LCB,Estudiantes,3.24,6.95,3.24,6.95,13,13,drawing,1,0,1
+2047793,3,115103,F. Pardo,CB,Racing Club,-33.76,-5.41,-33.76,-5.41,4,4,drawing,1,0,1
+2047793,3,5441,J. Sosa,LM,Estudiantes,-12.83,5.51,-17.2,4.27,8,8,drawing,0,1,1
+2047793,3,569404,F. Rodríguez,LCB,Estudiantes,-44.91,10.44,-44.91,10.44,3,3,drawing,0,1,1
+2047793,3,123094,A. García Basso,LCB,Racing Club,0.94,1.88,0.94,1.88,8,8,drawing,1,0,1
+2047793,3,36679,E. Meza,RB,Estudiantes,-40.93,-9.94,-40.4,-13.07,4,4,drawing,0,1,1
+2047793,3,34536,L. González Pírez,LCB,Estudiantes,-15.73,4.34,-15.73,4.34,8,8,drawing,1,0,1
+2047793,3,36722,F. Cambeses,GK,Racing Club,-38.45,1.01,-43.66,-2.85,3,3,drawing,1,0,1
+2047793,3,36679,E. Meza,RB,Estudiantes,-27.91,-17.37,-37.95,-32.84,4,5,drawing,1,0,1
+2047793,3,36679,E. Meza,RB,Estudiantes,-9.72,-27.01,-9.72,-27.01,10,10,drawing,0,1,1
+2047793,4,3406,F. Muslera,GK,Estudiantes,-48.91,5.99,-37.36,-1.93,3,3,drawing,1,0,1
+2047793,4,569404,F. Rodríguez,LCB,Estudiantes,0.58,1.68,5.75,-3.39,8,14,drawing,0,1,1
+2047793,4,34536,L. González Pírez,LCB,Estudiantes,-21.63,-30.19,-21.63,-30.19,10,10,drawing,1,0,1
+2047793,4,34536,L. González Pírez,LCB,Estudiantes,-17.06,-2.89,-17.06,-2.89,8,8,drawing,1,0,1
+2047793,4,852686,A. Fernández,LM,Racing Club,-35.61,-24.74,-35.61,-24.74,5,5,drawing,1,0,1
+2047793,4,35612,G. Benedetti,LB,Estudiantes,-38.38,10.74,-38.38,10.74,3,3,drawing,0,1,1
+2047793,4,115103,F. Pardo,CB,Racing Club,6.14,-18.17,6.14,-18.17,14,14,drawing,1,0,1
+2047793,4,28677,N. Colombo,RCB,Racing Club,-10.68,-0.13,-1.28,8.69,8,8,drawing,1,0,1
+2047793,4,569404,F. Rodríguez,LCB,Estudiantes,-41.13,2.29,-41.13,2.29,3,3,drawing,1,0,1
+2047793,4,3406,F. Muslera,GK,Estudiantes,-49.44,2.44,-41.01,-0.73,3,3,drawing,1,0,1
+2047793,4,3406,F. Muslera,GK,Estudiantes,-45.13,7.67,-39.54,3.54,3,3,drawing,1,0,1
+2047793,4,28677,N. Colombo,RCB,Racing Club,-38.76,-8.73,-38.76,-8.73,4,4,drawing,1,0,1

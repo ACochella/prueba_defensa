@@ -1,0 +1,25 @@
+match_id,period,player_id,player_name,player_position,team_shortname,x_start,y_start,x_end,y_end,start_zone,end_zone,game_state,player_name_anterior,pase_a_tiro,asistencia
+2047793,1,26252,J. Nardoni,RM,Racing Club,23.97,-7.99,23.97,-7.99,14,14,drawing,D. Vergara,0,0
+2047793,1,35671,D. Vergara,LF,Racing Club,6.32,29.11,31.63,14.07,12,17,drawing,E. Almendra,1,0
+2047793,1,35671,D. Vergara,LF,Racing Club,42.64,15.17,42.64,15.17,17,17,drawing,D. Vergara,0,0
+2047793,1,58765,T. Palacios,RW,Estudiantes,21.35,-26.53,38.13,-21.93,15,20,drawing,R. Gómez,1,0
+2047793,1,58765,T. Palacios,RW,Estudiantes,36.59,-13.42,41.3,-13.08,19,19,drawing,C. Medina,1,0
+2047793,1,4110,G. Carrillo,CF,Estudiantes,35.13,-11.18,38.1,-11.85,19,19,drawing,R. Gómez,1,0
+2047793,1,28615,E. Piovi,DM,Estudiantes,19.81,0.91,23.09,-0.52,13,13,drawing,T. Palacios,1,0
+2047793,1,28677,N. Colombo,RCB,Racing Club,42.85,0.86,42.85,0.86,18,18,drawing,F. Mura,0,0
+2047793,1,528888,S. Solari,RF,Racing Club,40.23,0.62,40.23,0.62,18,18,drawing,F. Mura,1,0
+2047793,1,25949,E. Cetré,LW,Estudiantes,30.28,28.07,34.78,20.95,17,17,drawing,G. Carrillo,1,0
+2047793,2,4110,G. Carrillo,CF,Estudiantes,37.56,-6.57,37.56,-6.57,19,19,drawing,T. Palacios,1,0
+2047793,2,35564,G. Rojas,LB,Racing Club,26.75,5.3,26.75,5.3,13,13,drawing,N. Colombo,1,0
+2047793,2,38610,S. Arzamendia,LB,Estudiantes,7.53,21.55,27.22,19.49,12,12,drawing,S. Núñez,1,0
+2047793,2,38142,A. Martínez,CF,Racing Club,17.64,3.01,41.2,13.67,13,17,drawing,J. Nardoni,1,1
+2047793,2,4110,G. Carrillo,CF,Estudiantes,37.94,2.52,37.94,2.52,18,18,drawing,J. Tobio Burgos,0,0
+2047793,3,25949,E. Cetré,LW,Estudiantes,24.31,29.88,29.54,22.36,11,17,drawing,J. Sosa,1,0
+2047793,3,26252,J. Nardoni,RM,Racing Club,23.99,1.21,24.62,-0.14,13,13,drawing,A. García Basso,1,0
+2047793,3,36516,T. Conechny,RF,Racing Club,4.33,14.96,23.73,12.7,12,13,drawing,G. Martirena,1,0
+2047793,3,16289,L. Alario,CF,Estudiantes,47.84,6.32,47.84,6.32,18,18,drawing,E. Cetré,1,0
+2047793,3,28677,N. Colombo,RCB,Racing Club,9.38,-12.14,18.04,-15.57,14,14,drawing,S. Sosa,1,0
+2047793,4,38142,A. Martínez,CF,Racing Club,47.1,7.94,47.1,7.94,18,18,drawing,G. Martirena,1,0
+2047793,4,38992,G. Martirena,RWB,Racing Club,25.7,-7.07,27.03,-9.32,14,14,drawing,A. Martínez,0,0
+2047793,4,36679,E. Meza,RB,Estudiantes,41.37,-9.69,41.37,-9.69,19,19,drawing,E. Cetré,1,0
+2047793,4,852686,A. Fernández,LM,Racing Club,45.6,10.41,45.6,10.41,18,18,drawing,S. Sosa,1,0
